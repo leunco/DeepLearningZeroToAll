@@ -13,5 +13,5 @@ https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%E
 4. 참고하면 좋은 블로그
 <br>https://pythonkim.tistory.com/notice/25
 
-5. 텐서보드 실행
+5. 텐서보드 실행(lab 09)
 <br> https://kjun.kr/452
